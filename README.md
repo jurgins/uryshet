@@ -1,12 +1,20 @@
 # uryshet 
 
-###[Live Site](https://fathomless-forest-22194.herokuapp.com/services)
+### [Live Site](https://fathomless-forest-22194.herokuapp.com/services)
 
-[uryshet application](https://ibb.co/hBN4rB4)
+![Uryshet Application](https://i.ibb.co/zXgBCXB/2020-09-13-14-38-20.png)
+
+## Introduction
+This is a code repository for the site a legal services company.
+
+I used Node.js, MongoDB Atlas, passport.js, handelbars, mongoose. 
+
+Setup:
+- run ```npm i && npm start``` for both client and server side to start the development server
+
 
 <div align="center">
 
   ### Hi there, welcome to my Github! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
-  ![github stats](https://github-readme-stats.vercel.app/api?username=opxop&show_icons=true)
   
 </div>  
